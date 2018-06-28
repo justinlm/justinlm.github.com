@@ -1,0 +1,18 @@
+{
+  "he": "他",
+  "she": "她",
+  "Type Something...": "输入点什么...",
+  "touch down for record": "按下录音",
+  "New Message": "新消息",
+  "un useable": "不可用",
+  "VOTE RESULT": "投票结果",
+  "Was voted out. {0} is a {1}": "被投出局. {0/** 性别描述(she/he)*/}是一个{1/** 身份*/}",
+  "All player gave up to vote. No one was killed": "所有人放弃投票,没有人被杀",
+  "They got same votes, So have to defense": "他们获得相同的票数,需要重新投票",
+  "all people got the same votes": "所有人获得的投票数一致",
+  "Prophet": "先知",
+  "Bodyguard": "保镖",
+  "Civy": "平民",
+  "Werewolf": "狼人",
+  "release to send. swipe up to cancel": "释放按钮发送,向上滑动取消"
+}

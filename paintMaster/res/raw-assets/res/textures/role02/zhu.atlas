@@ -1,0 +1,118 @@
+
+zhu.png
+size: 256,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+anger
+  rotate: true
+  xy: 192, 30
+  size: 15, 16
+  orig: 15, 16
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 2, 7
+  size: 56, 55
+  orig: 56, 55
+  offset: 0, 0
+  index: -1
+ears
+  rotate: false
+  xy: 97, 28
+  size: 25, 11
+  orig: 25, 11
+  offset: 0, 0
+  index: -1
+eye_1
+  rotate: false
+  xy: 60, 48
+  size: 42, 14
+  orig: 42, 14
+  offset: 0, 0
+  index: -1
+eye_2
+  rotate: true
+  xy: 60, 2
+  size: 44, 11
+  orig: 44, 11
+  offset: 0, 0
+  index: -1
+eyebrow_l
+  rotate: false
+  xy: 97, 18
+  size: 15, 8
+  orig: 15, 8
+  offset: 0, 0
+  index: -1
+eyebrow_r
+  rotate: false
+  xy: 241, 54
+  size: 13, 8
+  orig: 13, 8
+  offset: 0, 0
+  index: -1
+foot_l
+  rotate: false
+  xy: 73, 15
+  size: 22, 31
+  orig: 22, 31
+  offset: 0, 0
+  index: -1
+foot_r
+  rotate: true
+  xy: 104, 41
+  size: 21, 28
+  orig: 21, 28
+  offset: 0, 0
+  index: -1
+hand_l
+  rotate: true
+  xy: 162, 47
+  size: 15, 25
+  orig: 15, 25
+  offset: 0, 0
+  index: -1
+hand_r
+  rotate: true
+  xy: 189, 47
+  size: 15, 25
+  orig: 15, 25
+  offset: 0, 0
+  index: -1
+mouth_1
+  rotate: true
+  xy: 210, 39
+  size: 6, 4
+  orig: 6, 4
+  offset: 0, 0
+  index: -1
+mouth_2
+  rotate: false
+  xy: 73, 2
+  size: 30, 11
+  orig: 30, 11
+  offset: 0, 0
+  index: -1
+mouth_3
+  rotate: false
+  xy: 162, 39
+  size: 28, 6
+  orig: 28, 6
+  offset: 0, 0
+  index: -1
+nose
+  rotate: false
+  xy: 216, 45
+  size: 23, 17
+  orig: 23, 17
+  offset: 0, 0
+  index: -1
+stars
+  rotate: true
+  xy: 134, 42
+  size: 20, 26
+  orig: 20, 26
+  offset: 0, 0
+  index: -1

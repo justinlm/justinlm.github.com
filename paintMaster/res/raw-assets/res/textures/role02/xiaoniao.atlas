@@ -1,0 +1,111 @@
+
+xiaoniao.png
+size: 256,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+01_Eye_l
+  rotate: false
+  xy: 207, 32
+  size: 18, 10
+  orig: 18, 10
+  offset: 0, 0
+  index: -1
+01_body
+  rotate: false
+  xy: 2, 11
+  size: 52, 51
+  orig: 52, 51
+  offset: 0, 0
+  index: -1
+01_eye
+  rotate: false
+  xy: 56, 32
+  size: 38, 15
+  orig: 38, 15
+  offset: 0, 0
+  index: -1
+01_eye_meimao
+  rotate: false
+  xy: 56, 49
+  size: 41, 13
+  orig: 41, 13
+  offset: 0, 0
+  index: -1
+01_eye_r
+  rotate: true
+  xy: 99, 13
+  size: 18, 10
+  orig: 18, 10
+  offset: 0, 0
+  index: -1
+01_foot1_l
+  rotate: false
+  xy: 2, 4
+  size: 14, 5
+  orig: 14, 5
+  offset: 0, 0
+  index: -1
+01_foot1_r
+  rotate: false
+  xy: 96, 33
+  size: 16, 8
+  orig: 16, 8
+  offset: 0, 0
+  index: -1
+01_foot2_l
+  rotate: true
+  xy: 127, 43
+  size: 19, 25
+  orig: 19, 25
+  offset: 0, 0
+  index: -1
+01_foot2_r
+  rotate: false
+  xy: 78, 4
+  size: 19, 26
+  orig: 19, 26
+  offset: 0, 0
+  index: -1
+01_hair
+  rotate: false
+  xy: 207, 44
+  size: 23, 18
+  orig: 23, 18
+  offset: 0, 0
+  index: -1
+01_hand_l
+  rotate: true
+  xy: 99, 43
+  size: 19, 26
+  orig: 19, 26
+  offset: 0, 0
+  index: -1
+01_hand_r
+  rotate: true
+  xy: 154, 44
+  size: 18, 25
+  orig: 18, 25
+  offset: 0, 0
+  index: -1
+01_mouth
+  rotate: true
+  xy: 56, 2
+  size: 28, 20
+  orig: 28, 20
+  offset: 0, 0
+  index: -1
+stars
+  rotate: false
+  xy: 181, 39
+  size: 24, 23
+  orig: 24, 23
+  offset: 0, 0
+  index: -1
+tear
+  rotate: true
+  xy: 232, 47
+  size: 15, 19
+  orig: 15, 19
+  offset: 0, 0
+  index: -1
